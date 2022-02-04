@@ -25,7 +25,7 @@ status-website:
     - title: GitHub Repo
       href: https://github.com/$OWNER/$REPO
   #configs para el diseño de la pagina
-  theme: dark
+  theme: night
   introTitle: "**Live Status Page** es una página de monitorización y estado del tiempo de actividad de código abierto, impulsada completamente por GitHub."
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   
