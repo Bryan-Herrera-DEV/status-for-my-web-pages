@@ -11,10 +11,7 @@ sites:
     url: https://bryan-herrera-dev.github.io/Github-Profile-View-With-Charts
     assignees:
       - Bryan-Herrera-DEV
-  - name: broken
-    url: https://es.wukw.com
-    assignees:
-      - Bryan-Herrera-DEV
+  
   
 
 status-website:
