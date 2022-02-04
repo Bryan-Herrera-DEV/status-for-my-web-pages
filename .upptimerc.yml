@@ -11,6 +11,11 @@ sites:
     url: https://bryan-herrera-dev.github.io/Github-Profile-View-With-Charts
     assignees:
       - Bryan-Herrera-DEV
+  - name: broken
+    url: https://es.wukw.com
+    assignees:
+      - Bryan-Herrera-DEV
+  
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
