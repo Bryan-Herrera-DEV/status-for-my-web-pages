@@ -19,4 +19,3 @@ Visite mi sitio web de estatus: → [**Aqui**](https://Bryan-Herrera-DEV.github.
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
 - Code: [MIT](./LICENSE) © [Bryan Herrera ~ ርᚱ1ናተᛰ ᚻህᚥተპᚱ](https://bryan-herrera.netlify.app/)
-- Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
