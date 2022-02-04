@@ -27,7 +27,7 @@ status-website:
   #configs para el diseño de la pagina
   theme: night
   introTitle: "**Live Status Page** es una página de monitorización y estado del tiempo de actividad de código abierto, impulsada completamente por GitHub."
-  logoUrl: https://raw.githubusercontent.com/Bryan-Herrera-DEV/status-for-my-web-pages/0859be7a4cb87798b0c52d063c1b5eb108019f0c/assets/LiveStatusPage.svg
+  logoUrl: https://raw.githubusercontent.com/Bryan-Herrera-DEV/status-for-my-web-pages/master/assets/LiveStatusPage.png
   favicon: https://raw.githubusercontent.com/Bryan-Herrera-DEV/status-for-my-web-pages/master/assets/LiveStatusPage.png
  
 # Upptime also supports notifications, assigning issues, and more
