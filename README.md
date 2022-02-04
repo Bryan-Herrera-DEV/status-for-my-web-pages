@@ -15,14 +15,8 @@ Este repositorio contiene el monitor de tiempo de actividad de código abierto y
 
 <!--end: status pages-->
 
-[**Visite mi sitio web de estatus: →**](https://Bryan-Herrera-DEV.github.io/status-for-my-web-pages)
-Hecho con la tecnologia de:
-<br>
-[![Uptime CI](https://github.com/Bryan-Herrera-DEV/status-for-my-web-pages/workflows/Uptime%20CI/badge.svg)](https://github.com/Bryan-Herrera-DEV/status-for-my-web-pages/actions?query=workflow%3A%22Uptime+CI%22)
-[![Response Time CI](https://github.com/Bryan-Herrera-DEV/status-for-my-web-pages/workflows/Response%20Time%20CI/badge.svg)](https://github.com/Bryan-Herrera-DEV/status-for-my-web-pages/actions?query=workflow%3A%22Response+Time+CI%22)
-[![Graphs CI](https://github.com/Bryan-Herrera-DEV/status-for-my-web-pages/workflows/Graphs%20CI/badge.svg)](https://github.com/Bryan-Herrera-DEV/status-for-my-web-pages/actions?query=workflow%3A%22Graphs+CI%22)
-[![Static Site CI](https://github.com/Bryan-Herrera-DEV/status-for-my-web-pages/workflows/Static%20Site%20CI/badge.svg)](https://github.com/Bryan-Herrera-DEV/status-for-my-web-pages/actions?query=workflow%3A%22Static+Site+CI%22)
-[![Summary CI](https://github.com/Bryan-Herrera-DEV/status-for-my-web-pages/workflows/Summary%20CI/badge.svg)](https://github.com/Bryan-Herrera-DEV/status-for-my-web-pages/actions?query=workflow%3A%22Summary+CI%22)
+Visite mi sitio web de estatus: → [**Aqui**](https://Bryan-Herrera-DEV.github.io/status-for-my-web-pages)
+
 
 ## 📄 License
 
