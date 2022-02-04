@@ -18,7 +18,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /status-for-my-web-pages
   name: Live Status Page
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: This is a sample status page which uses real-time data from our GitHub repository. No server required — just GitHub Actions, Issues, and Pages. 
   navbar:
     - title: Live Status Page
       href: /
@@ -26,7 +26,7 @@ status-website:
       href: https://github.com/$OWNER/$REPO
   #configs para el diseño de la pagina
   theme: night
-  introTitle: "**Live Status Page** es una página de monitorización y estado del tiempo de actividad de código abierto, impulsada completamente por GitHub."
+  # introTitle: "**Live Status Page** es una página de monitorización y estado del tiempo de actividad de código abierto, impulsada completamente por GitHub."
   logoUrl: https://raw.githubusercontent.com/Bryan-Herrera-DEV/status-for-my-web-pages/master/assets/LiveStatusPage.png
   favicon: https://raw.githubusercontent.com/Bryan-Herrera-DEV/status-for-my-web-pages/master/assets/LiveStatusPage.png
  
