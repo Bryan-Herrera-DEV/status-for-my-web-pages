@@ -5,9 +5,12 @@ repo: status-for-my-web-pages # The name of this repository
 sites:
   - name: Bryan Herrera Portfolio
     url: https://bryan-herrera.netlify.app/
+    assignees:
+      - Bryan-Herrera-DEV
   - name: GithubProfile whith Charts
     url: https://bryan-herrera-dev.github.io/Github-Profile-View-With-Charts
-  
+    assignees:
+      - Bryan-Herrera-DEV
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -21,8 +24,9 @@ status-website:
   navbar:
     - title: Live Status Page
       href: /
-    - title: GitHub
+    - title: GitHub Repo
       href: https://github.com/$OWNER/$REPO
-
+status-website:
+  theme: ocean
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
