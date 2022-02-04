@@ -17,6 +17,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 [**Visite mi sitio web de estatus: →**](https://Bryan-Herrera-DEV.github.io/status-for-my-web-pages)
 Hecho con la tecnologia de: 
+<br>
 [![Uptime CI](https://github.com/Bryan-Herrera-DEV/status-for-my-web-pages/workflows/Uptime%20CI/badge.svg)](https://github.com/Bryan-Herrera-DEV/status-for-my-web-pages/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/Bryan-Herrera-DEV/status-for-my-web-pages/workflows/Response%20Time%20CI/badge.svg)](https://github.com/Bryan-Herrera-DEV/status-for-my-web-pages/actions?query=workflow%3A%22Response+Time+CI%22)
 [![Graphs CI](https://github.com/Bryan-Herrera-DEV/status-for-my-web-pages/workflows/Graphs%20CI/badge.svg)](https://github.com/Bryan-Herrera-DEV/status-for-my-web-pages/actions?query=workflow%3A%22Graphs+CI%22)
