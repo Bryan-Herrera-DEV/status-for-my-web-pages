@@ -11,6 +11,10 @@ sites:
     url: https://bryan-herrera-dev.github.io/Github-Profile-View-With-Charts
     assignees:
       - Bryan-Herrera-DEV
+  - name: Pokemon Wiki
+    url: https://bryan-herrera-dev.github.io/pokemon-wiki/
+    assignees:
+      - Bryan-Herrera-DEV
   
   
 
