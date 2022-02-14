@@ -15,7 +15,11 @@ sites:
     url: https://bryan-herrera-dev.github.io/pokemon-wiki/
     assignees:
       - Bryan-Herrera-DEV
-  
+  - name: Angular Maps
+    url: https://bryan-herrera-dev.github.io/Angular-Maps/
+    assignees:
+      - Bryan-Herrera-DEV
+          
   
 
 status-website:
