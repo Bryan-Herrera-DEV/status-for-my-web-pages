@@ -19,6 +19,7 @@ sites:
     url: https://bryan-herrera-dev.github.io/Angular-Maps/
     assignees:
       - Bryan-Herrera-DEV
+      
    - name: Generator Password
     url: https://bryan-herrera-dev.github.io/Angular-Password-Generator/
     assignees:
