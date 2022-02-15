@@ -7,16 +7,19 @@ sites:
     url: https://bryan-herrera.netlify.app/
     assignees:
       - Bryan-Herrera-DEV
+      
   - name: GithubProfile whith Charts
     url: https://bryan-herrera-dev.github.io/Github-Profile-View-With-Charts
     assignees:
       - Bryan-Herrera-DEV
-  - name: Pokemon Wiki
-    url: https://bryan-herrera-dev.github.io/pokemon-wiki/
-    assignees:
-      - Bryan-Herrera-DEV
+      
   - name: Angular Maps
     url: https://bryan-herrera-dev.github.io/Angular-Maps/
+    assignees:
+      - Bryan-Herrera-DEV 
+      
+  - name: Pokemon Wiki
+    url: https://bryan-herrera-dev.github.io/pokemon-wiki/
     assignees:
       - Bryan-Herrera-DEV
       
