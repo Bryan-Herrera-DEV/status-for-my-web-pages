@@ -28,19 +28,19 @@
     "url": "https://bryan-herrera-dev.github.io/Github-Profile-View-With-Charts",
     "icon": "https://icons.duckduckgo.com/ip3/bryan-herrera-dev.github.io.ico",
     "slug": "github-profile-whith-charts",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 141,
-    "timeDay": 0,
-    "timeWeek": 128,
-    "timeMonth": 125,
-    "timeYear": 141,
+    "time": 142,
+    "timeDay": 246,
+    "timeWeek": 145,
+    "timeMonth": 129,
+    "timeYear": 142,
     "dailyMinutesDown": {
-      "2023-01-19": 3
+      "2023-01-19": 9
     }
   },
   {
@@ -48,19 +48,19 @@
     "url": "https://bryan-herrera-dev.github.io/Angular-Maps/",
     "icon": "https://icons.duckduckgo.com/ip3/bryan-herrera-dev.github.io.ico",
     "slug": "angular-maps",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 59,
-    "timeDay": 0,
-    "timeWeek": 73,
+    "timeDay": 53,
+    "timeWeek": 70,
     "timeMonth": 58,
     "timeYear": 59,
     "dailyMinutesDown": {
-      "2023-01-19": 3
+      "2023-01-19": 9
     }
   },
   {
@@ -68,19 +68,19 @@
     "url": "https://bryan-herrera-dev.github.io/pokemon-wiki/",
     "icon": "https://icons.duckduckgo.com/ip3/bryan-herrera-dev.github.io.ico",
     "slug": "pokemon-wiki",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 60,
-    "timeDay": 0,
-    "timeWeek": 92,
-    "timeMonth": 58,
+    "timeDay": 44,
+    "timeWeek": 85,
+    "timeMonth": 57,
     "timeYear": 60,
     "dailyMinutesDown": {
-      "2023-01-19": 2
+      "2023-01-19": 9
     }
   },
   {
@@ -88,19 +88,19 @@
     "url": "https://bryan-herrera-dev.github.io/Angular-Password-Generator/",
     "icon": "https://icons.duckduckgo.com/ip3/bryan-herrera-dev.github.io.ico",
     "slug": "generator-password",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 59,
-    "timeDay": 2,
-    "timeWeek": 57,
+    "timeDay": 24,
+    "timeWeek": 55,
     "timeMonth": 59,
     "timeYear": 59,
     "dailyMinutesDown": {
-      "2023-01-19": 2
+      "2023-01-19": 9
     }
   }
 ]
