@@ -30,18 +30,16 @@
     "slug": "github-profile-whith-charts",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 142,
     "timeDay": 246,
     "timeWeek": 145,
     "timeMonth": 129,
     "timeYear": 142,
-    "dailyMinutesDown": {
-      "2023-01-19": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Angular Maps",
@@ -50,18 +48,16 @@
     "slug": "angular-maps",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 59,
     "timeDay": 53,
     "timeWeek": 70,
     "timeMonth": 58,
     "timeYear": 59,
-    "dailyMinutesDown": {
-      "2023-01-19": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Pokemon Wiki",
@@ -70,18 +66,16 @@
     "slug": "pokemon-wiki",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 60,
     "timeDay": 44,
     "timeWeek": 85,
     "timeMonth": 57,
     "timeYear": 60,
-    "dailyMinutesDown": {
-      "2023-01-19": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Generator Password",
@@ -90,17 +84,15 @@
     "slug": "generator-password",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 59,
     "timeDay": 24,
     "timeWeek": 55,
     "timeMonth": 59,
     "timeYear": 59,
-    "dailyMinutesDown": {
-      "2023-01-19": 9
-    }
+    "dailyMinutesDown": {}
   }
 ]
