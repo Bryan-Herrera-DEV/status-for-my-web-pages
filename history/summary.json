@@ -63,18 +63,20 @@
     "url": "https://bryan-herrera-dev.github.io/pokemon-wiki/",
     "icon": "https://icons.duckduckgo.com/ip3/bryan-herrera-dev.github.io.ico",
     "slug": "pokemon-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 56,
-    "timeDay": 11,
-    "timeWeek": 29,
+    "time": 55,
+    "timeDay": 12,
+    "timeWeek": 27,
     "timeMonth": 30,
     "timeYear": 53,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-01": 0
+    }
   },
   {
     "name": "Generator Password",
