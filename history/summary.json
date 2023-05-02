@@ -11,15 +11,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 289,
-    "timeDay": 198,
-    "timeWeek": 146,
-    "timeMonth": 217,
+    "timeDay": 123,
+    "timeWeek": 147,
+    "timeMonth": 216,
     "timeYear": 293,
     "dailyMinutesDown": {
       "2022-12-13": 19,
       "2022-07-03": 31,
-      "2022-05-20": 32,
-      "2022-05-02": 31
+      "2022-05-20": 32
     }
   },
   {
@@ -34,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 134,
-    "timeDay": 59,
-    "timeWeek": 77,
-    "timeMonth": 100,
+    "timeDay": 195,
+    "timeWeek": 96,
+    "timeMonth": 105,
     "timeYear": 129,
     "dailyMinutesDown": {}
   },
@@ -52,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 55,
-    "timeDay": 11,
-    "timeWeek": 30,
-    "timeMonth": 31,
+    "timeDay": 126,
+    "timeWeek": 46,
+    "timeMonth": 35,
     "timeYear": 53,
     "dailyMinutesDown": {}
   },
@@ -65,18 +64,16 @@
     "slug": "pokemon-wiki",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 55,
-    "timeDay": 13,
-    "timeWeek": 25,
-    "timeMonth": 29,
+    "timeDay": 37,
+    "timeWeek": 34,
+    "timeMonth": 32,
     "timeYear": 53,
-    "dailyMinutesDown": {
-      "2023-05-01": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Generator Password",
@@ -90,10 +87,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 54,
-    "timeDay": 12,
-    "timeWeek": 27,
-    "timeMonth": 27,
-    "timeYear": 52,
+    "timeDay": 89,
+    "timeWeek": 39,
+    "timeMonth": 30,
+    "timeYear": 53,
     "dailyMinutesDown": {}
   }
 ]
