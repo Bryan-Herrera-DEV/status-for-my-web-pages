@@ -50,19 +50,19 @@
     "url": "https://bryan-herrera-dev.github.io/Github-Profile-View-With-Charts",
     "icon": "https://icons.duckduckgo.com/ip3/bryan-herrera-dev.github.io.ico",
     "slug": "github-profile-whith-charts",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 120,
-    "timeDay": 1104,
-    "timeWeek": 348,
-    "timeMonth": 189,
-    "timeYear": 119,
+    "timeDay": 814,
+    "timeWeek": 335,
+    "timeMonth": 190,
+    "timeYear": 120,
     "dailyMinutesDown": {
-      "2024-04-07": 0
+      "2024-04-07": 9
     }
   },
   {
