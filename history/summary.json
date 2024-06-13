@@ -86,19 +86,19 @@
     "url": "https://bryan-herrera-dev.github.io/pokemon-wiki/",
     "icon": "https://icons.duckduckgo.com/ip3/bryan-herrera-dev.github.io.ico",
     "slug": "pokemon-wiki",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 45,
-    "timeDay": 9,
-    "timeWeek": 39,
+    "timeDay": 13,
+    "timeWeek": 37,
     "timeMonth": 38,
     "timeYear": 47,
     "dailyMinutesDown": {
-      "2024-06-13": 0
+      "2024-06-13": 10
     }
   },
   {
