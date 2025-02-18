@@ -4,19 +4,19 @@
     "url": "https://bryan-herrera.netlify.app/",
     "icon": "https://icons.duckduckgo.com/ip3/bryan-herrera.netlify.app.ico",
     "slug": "bryan-herrera-portfolio",
-    "status": "down",
+    "status": "up",
     "uptime": "97.65%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 202,
-    "timeDay": 189,
-    "timeWeek": 143,
+    "timeDay": 165,
+    "timeWeek": 140,
     "timeMonth": 128,
     "timeYear": 173,
     "dailyMinutesDown": {
-      "2025-02-18": 0
+      "2025-02-18": 8
     }
   },
   {
