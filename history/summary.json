@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/bryan-herrera.netlify.app.ico",
     "slug": "bryan-herrera-portfolio",
     "status": "up",
-    "uptime": "97.65%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptime": "97.66%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 202,
-    "timeDay": 165,
-    "timeWeek": 140,
-    "timeMonth": 128,
+    "timeDay": 164,
+    "timeWeek": 138,
+    "timeMonth": 127,
     "timeYear": 173,
-    "dailyMinutesDown": {
-      "2025-02-18": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "GithubProfile whith Charts",
@@ -30,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 121,
-    "timeDay": 56,
-    "timeWeek": 95,
-    "timeMonth": 116,
+    "time": 120,
+    "timeDay": 59,
+    "timeWeek": 93,
+    "timeMonth": 107,
     "timeYear": 126,
     "dailyMinutesDown": {}
   },
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 46,
-    "timeDay": 16,
-    "timeWeek": 26,
-    "timeMonth": 40,
+    "timeDay": 13,
+    "timeWeek": 25,
+    "timeMonth": 36,
     "timeYear": 46,
     "dailyMinutesDown": {}
   },
@@ -67,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 45,
-    "timeDay": 17,
-    "timeWeek": 20,
-    "timeMonth": 38,
+    "timeDay": 7,
+    "timeWeek": 19,
+    "timeMonth": 34,
     "timeYear": 45,
     "dailyMinutesDown": {}
   },
@@ -85,10 +83,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 47,
-    "timeDay": 21,
-    "timeWeek": 21,
-    "timeMonth": 40,
-    "timeYear": 48,
+    "timeDay": 8,
+    "timeWeek": 19,
+    "timeMonth": 36,
+    "timeYear": 47,
     "dailyMinutesDown": {}
   }
 ]
