@@ -6,18 +6,16 @@
     "slug": "bryan-herrera-portfolio",
     "status": "up",
     "uptime": "97.72%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 206,
-    "timeDay": 190,
-    "timeWeek": 145,
-    "timeMonth": 172,
+    "timeDay": 104,
+    "timeWeek": 159,
+    "timeMonth": 173,
     "timeYear": 175,
-    "dailyMinutesDown": {
-      "2025-03-21": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "GithubProfile whith Charts",
@@ -31,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 122,
-    "timeDay": 237,
-    "timeWeek": 175,
-    "timeMonth": 136,
-    "timeYear": 126,
+    "timeDay": 268,
+    "timeWeek": 202,
+    "timeMonth": 134,
+    "timeYear": 127,
     "dailyMinutesDown": {}
   },
   {
@@ -49,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 46,
-    "timeDay": 100,
-    "timeWeek": 62,
+    "timeDay": 107,
+    "timeWeek": 74,
     "timeMonth": 46,
     "timeYear": 45,
     "dailyMinutesDown": {}
@@ -67,8 +65,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 45,
-    "timeDay": 91,
-    "timeWeek": 57,
+    "timeDay": 113,
+    "timeWeek": 69,
     "timeMonth": 48,
     "timeYear": 44,
     "dailyMinutesDown": {}
@@ -85,9 +83,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 46,
-    "timeDay": 110,
-    "timeWeek": 64,
-    "timeMonth": 45,
+    "timeDay": 113,
+    "timeWeek": 76,
+    "timeMonth": 44,
     "timeYear": 46,
     "dailyMinutesDown": {}
   }
