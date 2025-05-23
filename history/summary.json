@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/bryan-herrera.netlify.app.ico",
     "slug": "bryan-herrera-portfolio",
     "status": "up",
-    "uptime": "97.83%",
+    "uptime": "97.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 207,
-    "timeDay": 46,
-    "timeWeek": 198,
-    "timeMonth": 245,
+    "time": 204,
+    "timeDay": 145,
+    "timeWeek": 134,
+    "timeMonth": 237,
     "timeYear": 191,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 127,
-    "timeDay": 83,
-    "timeWeek": 167,
+    "timeDay": 69,
+    "timeWeek": 162,
     "timeMonth": 149,
-    "timeYear": 129,
+    "timeYear": 128,
     "dailyMinutesDown": {}
   },
   {
@@ -47,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 47,
-    "timeDay": 15,
+    "timeDay": 4,
     "timeWeek": 66,
-    "timeMonth": 48,
-    "timeYear": 47,
+    "timeMonth": 47,
+    "timeYear": 46,
     "dailyMinutesDown": {}
   },
   {
@@ -65,10 +65,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 45,
-    "timeDay": 17,
+    "timeDay": 4,
     "timeWeek": 61,
     "timeMonth": 48,
-    "timeYear": 46,
+    "timeYear": 45,
     "dailyMinutesDown": {}
   },
   {
@@ -83,9 +83,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 47,
-    "timeDay": 34,
+    "timeDay": 4,
     "timeWeek": 85,
-    "timeMonth": 51,
+    "timeMonth": 50,
     "timeYear": 48,
     "dailyMinutesDown": {}
   }
