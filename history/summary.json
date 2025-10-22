@@ -6,15 +6,15 @@
     "slug": "bryan-herrera-portfolio",
     "status": "up",
     "uptime": "98.08%",
-    "uptimeDay": "97.86%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 227,
-    "timeDay": 348,
-    "timeWeek": 191,
+    "timeDay": 37,
+    "timeWeek": 182,
     "timeMonth": 310,
-    "timeYear": 234,
+    "timeYear": 233,
     "dailyMinutesDown": {
       "2025-10-20": 31
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 138,
-    "timeDay": 211,
-    "timeWeek": 146,
-    "timeMonth": 175,
-    "timeYear": 141,
+    "time": 139,
+    "timeDay": 262,
+    "timeWeek": 151,
+    "timeMonth": 182,
+    "timeYear": 142,
     "dailyMinutesDown": {}
   },
   {
@@ -49,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 49,
-    "timeDay": 19,
+    "timeDay": 94,
     "timeWeek": 33,
-    "timeMonth": 61,
-    "timeYear": 50,
+    "timeMonth": 64,
+    "timeYear": 51,
     "dailyMinutesDown": {}
   },
   {
@@ -67,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 49,
-    "timeDay": 31,
-    "timeWeek": 35,
-    "timeMonth": 69,
+    "timeDay": 124,
+    "timeWeek": 38,
+    "timeMonth": 73,
     "timeYear": 50,
     "dailyMinutesDown": {}
   },
@@ -85,9 +85,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 52,
-    "timeDay": 35,
+    "timeDay": 110,
     "timeWeek": 35,
-    "timeMonth": 65,
+    "timeMonth": 68,
     "timeYear": 53,
     "dailyMinutesDown": {}
   }
