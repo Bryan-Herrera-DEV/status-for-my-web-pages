@@ -26,9 +26,9 @@
     "url": "https://bryan-herrera-dev.github.io/Github-Profile-View-With-Charts",
     "icon": "https://icons.duckduckgo.com/ip3/bryan-herrera-dev.github.io.ico",
     "slug": "github-profile-whith-charts",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -37,7 +37,9 @@
     "timeWeek": 118,
     "timeMonth": 150,
     "timeYear": 159,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-27": 0
+    }
   },
   {
     "name": "Angular Maps",
