@@ -14,7 +14,7 @@
     "timeDay": 767,
     "timeWeek": 396,
     "timeMonth": 635,
-    "timeYear": 351,
+    "timeYear": 352,
     "dailyMinutesDown": {
       "2025-10-20": 31,
       "2026-05-10": 46,
@@ -26,19 +26,19 @@
     "url": "https://bryan-herrera-dev.github.io/Github-Profile-View-With-Charts",
     "icon": "https://icons.duckduckgo.com/ip3/bryan-herrera-dev.github.io.ico",
     "slug": "github-profile-whith-charts",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.82%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 153,
-    "timeDay": 213,
-    "timeWeek": 118,
-    "timeMonth": 150,
+    "timeDay": 149,
+    "timeWeek": 114,
+    "timeMonth": 148,
     "timeYear": 159,
     "dailyMinutesDown": {
-      "2026-05-27": 0
+      "2026-05-27": 31
     }
   },
   {
